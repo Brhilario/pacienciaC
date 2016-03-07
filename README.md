@@ -1,0 +1,2 @@
+# pacienciaC
+Jogo Paciencia
